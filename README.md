@@ -11,7 +11,7 @@ latihan membuat page menggunakan framework vue.js
 Install vue-lat1 dengan npm
 
 ```bash
-  git clone https://github.com/ahmadsuryaalamsyah/Vue-lat1.git
+  git clone https://github.com/ahmadsuryaalamsyah/Vue-lat.git
   cd my-project
   npm i
 ```
