@@ -1,29 +1,25 @@
-# lat-vue
+# Vue-lat1
 
-This template should help get you started developing with Vue 3 in Vite.
+latihan membuat page menggunakan framework vue.js
 
-## Recommended IDE Setup
+## Authors
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [@ahmadsuryaalamsyah](https://github.com/ahmadsuryaalamsyah)
 
-## Customize configuration
+## Installation
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Install vue-lat1 dengan npm
 
-## Project Setup
-
-```sh
-npm install
+```bash
+  git clone https://github.com/ahmadsuryaalamsyah/Vue-lat1.git
+  cd my-project
+  npm i
 ```
 
-### Compile and Hot-Reload for Development
+## Deployment
 
-```sh
-npm run dev
-```
+Untuk menjalankan projek ini
 
-### Compile and Minify for Production
-
-```sh
-npm run build
+```bash
+  npm run dev
 ```
